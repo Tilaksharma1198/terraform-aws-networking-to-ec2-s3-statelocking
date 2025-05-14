@@ -1,0 +1,4 @@
+bucket         = "demo-state-locking-s3"
+key            = "home/ubuntu/DemoTerraform/terraform.tfstate"
+region         = "us-east-1"
+dynamodb_table = "dynamodb-state-locking"
